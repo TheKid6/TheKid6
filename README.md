@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheKid6
+- 👀 I’m interested in Reverse Engineering, System Programming and Game Development
+- 🌱 I’m currently learning C/C++
+- 📫 You can contact me on Discord: HamidReza#6634
